@@ -1,4 +1,4 @@
-# 🥤 Protein Drink Market Analysis
+# 🥤 Protein Drink Market Analysis.
 
 A **data science project analyzing popular protein drinks in the consumer market** using data analytics and visualization techniques.
 
